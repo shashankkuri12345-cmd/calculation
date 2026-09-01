@@ -1,7 +1,8 @@
 a = 10
 b = 20
 c = 30
+d = 40
 
-sum = a + b + c
+sum = a + b + c +d
 
 print(sum)
